@@ -1,6 +1,6 @@
 # ViewPager2 테스트
 
-##ViewPager1과 ViewPager2의 차이점
+## ViewPager1과 ViewPager2의 차이점
 
 1.  현재의 ViewPager2는 Android X 용으로 출시되어서 사용하려면 프로젝트가 Android X로 마이그레이션 되어야 한다.
     ex. implementation 'androidx.viewpager2:viewpager2:1.0.0-alpha01'
